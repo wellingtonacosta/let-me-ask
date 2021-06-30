@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src="../create-app/src/assets/images/logo.svg" width="160px">
+  <img alt="Letmeask" src="../main/src/assets/images/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="../create-app/src/assets/images/example-photo.png" />
+    <img alt="Letmeask" src="../main/src/assets/images/example-photo.png" />
 </h1>
 
 <br>
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/luarakerlen/nlw-together/tree/main/ReactJS
+$ git clone https://github.com/wellingtonacosta/create-react-app.git
 $ cd letmeask
 ```
 
