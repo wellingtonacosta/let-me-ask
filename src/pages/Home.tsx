@@ -9,7 +9,6 @@ import '../styles/auth.scss'
 import { Button } from '../components/Button'
 import { useAuth } from '../hooks/useAuth'
 import { database } from '../services/firebase'
-import { exists } from 'fs'
 
 export function Home() {
   const history = useHistory();
@@ -26,7 +25,7 @@ export function Home() {
   async function handleJoinRoom(event: FormEvent) {
     event.preventDefault();
 
-    if (roomCode.trim() == '') {
+    if (roomCode.trim() === '') {
       return
     }
 
@@ -34,6 +33,11 @@ export function Home() {
 
     if(!roomRef.exists()) {
       alert('Room does not exists.');
+      return;
+    }
+
+    if(roomRef.val().endedAt) {
+      alert('Room already closed.')
       return;
     }
 
