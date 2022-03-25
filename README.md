@@ -69,12 +69,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ## 👨🏾‍💻 Autor
 
-<a href="https://www.linkedin.com/in/wellington-alves-da-costa/">
- <img title="Wellington Costa" style="border-radius: 50%;" src="https://media-exp3.licdn.com/dms/image/C4E03AQEDrKp2nOV4CQ/profile-displayphoto-shrink_800_800/0/1624039136898?e=1630540800&v=beta&t=Q_NvXD0h64QH_JO6OzNa-0JHp6-A_FwtqFj14fH3st0" width="100px;" alt="Foto da Luara"/>
- <br />
- <sub><b>Wellington Costa</b></sub></a> <a href="hhttps://www.linkedin.com/in/wellington-alves-da-costa/" title="Wellington Costa"></a>
-
-
 Feito por Wellington Costa
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/wellington-alves-da-costa/)) 
