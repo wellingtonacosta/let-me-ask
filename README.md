@@ -19,10 +19,10 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [React Router] (https://reactrouter.com/en/main)
+- [React Router](https://reactrouter.com/en/main)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Sass] (https://sass-lang.com/)
+- [Sass](https://sass-lang.com/)
 
 ## 🚀 Como executar
 
